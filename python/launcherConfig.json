@@ -2,7 +2,7 @@
   "MinRequiredLauncherVersion": 1,
   "LauncherVersion": 2,
   "LauncherDownloadUrl": "https://aim4kill.github.io/python/Moh10MpLauncher.exe",
-  "MinRequiredDinput8Version": 1,
-  "Dinput8Version": 1,
+  "MinRequiredDinput8Version": 2,
+  "Dinput8Version": 2,
   "Dinput8DownloadUrl": "https://aim4kill.github.io/python/dinput8.dll"
 }
