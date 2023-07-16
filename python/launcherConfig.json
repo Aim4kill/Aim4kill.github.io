@@ -1,8 +1,8 @@
 {
-  "MinRequiredLauncherVersion": 1,
-  "LauncherVersion": 2,
-  "LauncherDownloadUrl": "https://aim4kill.github.io/python/Moh10MpLauncher.exe",
-  "MinRequiredDinput8Version": 2,
-  "Dinput8Version": 2,
+  "MinRequiredLauncherVersion": 3,
+  "LauncherVersion": 3,
+  "LauncherDownloadUrl": "https://aim4kill.github.io/python/NeptuneLauncher.exe",
+  "MinRequiredDinput8Version": 3,
+  "Dinput8Version": 3,
   "Dinput8DownloadUrl": "https://aim4kill.github.io/python/dinput8.dll"
 }
