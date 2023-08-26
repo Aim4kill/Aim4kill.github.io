@@ -1,10 +1,10 @@
 {
-  "MinRequiredLauncherVersion": 3,
-  "LauncherVersion": 4,
+  "MinRequiredLauncherVersion": 5,
+  "LauncherVersion": 5,
   "LauncherDownloadUrl": "https://aim4kill.github.io/python/NeptuneLauncher.exe",
   "MinRequiredDinput8Version": 4,
   "Dinput8Version": 4,
   "Dinput8DownloadUrl": "https://aim4kill.github.io/python/dinput8.dll",
   "DiscordLink": "https://discord.gg/JKnFFa46Wx",
-  "ServerIPAddress": "20.215.184.184"
+  "ServerIPAddress": "20.215.66.6"
 }
