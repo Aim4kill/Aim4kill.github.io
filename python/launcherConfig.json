@@ -2,9 +2,22 @@
   "MinRequiredLauncherVersion": 6,
   "LauncherVersion": 6,
   "LauncherDownloadUrl": "https://aim4kill.github.io/python/NeptuneLauncher.exe",
+  "BackendOnline": true,
+  "DiscordLink": "https://discord.gg/JKnFFa46Wx",
+  "HostnameRemaps": {
+    "gosredirector.ea.com": "207.180.233.55",
+    "goscontent.ea.com": "207.180.233.55"
+  },
+  "MinRequiredMpDllVersion": 6,
+  "MpDllVersion": 6,
+  "MpDllDownloadUrl": "https://aim4kill.github.io/python/dinput8Preview.dll",
+  "MinRequiredSpDllVersion": 1,
+  "SpDllVersion": 1,
+  "SpDllDownloadUrl": "https://aim4kill.github.io/python/dinput8SP.dll",
+
+
   "MinRequiredDinput8Version": 5,
   "Dinput8Version": 5,
   "Dinput8DownloadUrl": "https://aim4kill.github.io/python/dinput8.dll",
-  "DiscordLink": "https://discord.gg/JKnFFa46Wx",
   "BlazeRedirectorAddress": "207.180.233.55"
 }
