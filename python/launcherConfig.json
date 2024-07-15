@@ -2,7 +2,7 @@
   "MinRequiredLauncherVersion": 9,
   "LauncherVersion": 9,
   "LauncherDownloadUrl": "https://aim4kill.github.io/python/NeptuneLauncher.exe",
-  "BackendOnline": false,
+  "BackendOnline": true,
   "DiscordLink": "https://discord.gg/JKnFFa46Wx",
   "HostnameRemaps": {
     "gosredirector.ea.com": "voonux.net",
