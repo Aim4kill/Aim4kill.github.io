@@ -5,8 +5,8 @@
   "BackendOnline": true,
   "DiscordLink": "https://discord.gg/JKnFFa46Wx",
   "HostnameRemaps": {
-    "gosredirector.ea.com": "voonux.net",
-    "goscontent.ea.com": "voonux.net"
+    "gosredirector.ea.com": "gosredirector.eape.voonux.net",
+    "goscontent.ea.com": "goscontent.eape.voonux.net"
   },
   "MinRequiredMpDllVersion": 7,
   "MpDllVersion": 7,
