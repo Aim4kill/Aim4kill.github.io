@@ -13,5 +13,12 @@
   "MpDllDownloadUrl": "https://aim4kill.github.io/python/dinput8.dll",
   "MinRequiredSpDllVersion": 1,
   "SpDllVersion": 1,
-  "SpDllDownloadUrl": "https://aim4kill.github.io/python/dinput8SP.dll"
+  "SpDllDownloadUrl": "https://aim4kill.github.io/python/dinput8SP.dll",
+
+  "MinRequiredMpPatchVersion": 8,
+  "MpPatchVersion": 8,
+  "MpPatchDownloadUrl": "https://aim4kill.github.io/python/mp_patch.zip",
+  "MinRequiredSpPatchVersion": 2,
+  "SpPatchVersion": 2,
+  "SpPatchDownloadUrl": "https://aim4kill.github.io/python/sp_patch.zip"
 }
