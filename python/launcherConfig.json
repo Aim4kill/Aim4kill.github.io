@@ -1,6 +1,6 @@
 {
-  "MinRequiredLauncherVersion": 9,
-  "LauncherVersion": 9,
+  "MinRequiredLauncherVersion": 10,
+  "LauncherVersion": 10,
   "LauncherDownloadUrl": "https://aim4kill.github.io/python/NeptuneLauncher.exe",
   "BackendOnline": true,
   "DiscordLink": "https://discord.gg/JKnFFa46Wx",
@@ -8,13 +8,6 @@
     "gosredirector.ea.com": "gosredirector.eape.voonux.net",
     "goscontent.ea.com": "goscontent.eape.voonux.net"
   },
-  "MinRequiredMpDllVersion": 7,
-  "MpDllVersion": 7,
-  "MpDllDownloadUrl": "https://aim4kill.github.io/python/dinput8.dll",
-  "MinRequiredSpDllVersion": 1,
-  "SpDllVersion": 1,
-  "SpDllDownloadUrl": "https://aim4kill.github.io/python/dinput8SP.dll",
-
   "MinRequiredMpPatchVersion": 8,
   "MpPatchVersion": 8,
   "MpPatchDownloadUrl": "https://aim4kill.github.io/python/mp_patch.zip",
