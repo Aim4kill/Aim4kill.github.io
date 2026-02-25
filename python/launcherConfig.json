@@ -9,7 +9,7 @@
     "goscontent.ea.com": "goscontent.eape.voonux.net"
   },
   "MinRequiredMpPatchVersion": 8,
-  "MpPatchVersion": 8,
+  "MpPatchVersion": 9,
   "MpPatchDownloadUrl": "https://aim4kill.github.io/python/mp_patch.zip",
   "MinRequiredSpPatchVersion": 2,
   "SpPatchVersion": 2,
